@@ -73,7 +73,7 @@ This project focuses on analyzing customer churn data to understand why customer
 
 ## Dashboard Preview
 
-<img width="1189" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/9ca2774e-7d3b-4679-93ec-807dcfb800d3" />
+![Dashboard](images/Dashboard.png)
 
 ---
 
