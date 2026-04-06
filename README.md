@@ -73,7 +73,7 @@ This project focuses on analyzing customer churn data to understand why customer
 
 ## Dashboard Preview
 
-![Dashboard](Telecom Customer Churn Analysis Project/images/Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
