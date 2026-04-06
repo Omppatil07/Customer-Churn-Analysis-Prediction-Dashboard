@@ -73,7 +73,7 @@ This project focuses on analyzing customer churn data to understand why customer
 
 ## Dashboard Preview
 
-![Dashboard](image/Dashboard.png)
+![Dashboard]([image/Dashboard.png](https://github.com/Omppatil07/Customer-Churn-Analysis-Prediction-Dashboard/blob/main/Telecom%20Customer%20Churn%20Analysis%20Project/image/Dashboard.png?raw=true))
 
 ---
 
